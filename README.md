@@ -1,4 +1,4 @@
-# scemas
+
 # BigBasket PageSpeed Scoring Workbook
 
 ## Overview
